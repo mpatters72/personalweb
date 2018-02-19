@@ -1,2 +1,3 @@
-# personalweb
-Scripts for managing personal website
+# Personalweb
+
+Scripts for managing a personal website
